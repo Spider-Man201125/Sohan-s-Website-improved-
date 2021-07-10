@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+h1{
+  text-shadow: 2px 2px cyan;
+  font-size: 20px;
+}
+#myCarousel{
+    background-color: black;
+}
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+#Apps{
+    background-color: black;
+}
+#Chatbot{
+    background-color: black;
+}
+#Games{
+    background-color: black;
+}
